@@ -21,7 +21,7 @@ Pytorch implementations of various approaches published recently.
   * "Bootstrap Your Own Latent A New Approach to Self-Supervised Learning", or BYOL, https://arxiv.org/pdf/2006.07733v3.pdf
 
 - [PyFlow_CPC](https://github.com/talipucar/PyFlow_CPC) 
-  * "Representation Learning with Contrastive Predictive Coding", or CPC, https://arxiv.org/pdf/1807.03748.pdf
+  * "Representation Learning with Contrastive Predictive Coding", or CPC, \\ https://arxiv.org/pdf/1807.03748.pdf
 
 
 ## Multi-modal Learning: 
