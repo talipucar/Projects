@@ -4,14 +4,14 @@
 This page is used to showcase ongoing, and completed projects within various research themes in Machine Learning.
 
 
-# Table of Contents:
+### Table of Contents:
 
 1. [Self-supervised Learning](#self-supervised-learning)
 2. [Multi-modal Learning](#multi-modal-learning)
 
 
 
-# Self-supervised Learning: 
+## Self-supervised Learning: 
 Pytorch implementations of various approaches published recently.
 
 - [PyFlow_SimCLR](https://github.com/talipucar/PyFlow_SimCLR) 
@@ -24,6 +24,6 @@ Pytorch implementations of various approaches published recently.
   * "Representation Learning with Contrastive Predictive Coding", or CPC, https://arxiv.org/pdf/1807.03748.pdf
 
 
-# Multi-modal Learning: 
+## Multi-modal Learning: 
 - [PyFlow_DomainTranslation](https://github.com/talipucar/PyFlow_DomainTranslation) 
   * Pytorch implementation of "Multi-domain translation between single-cell imaging and sequencing data using autoencoders" (https://www.nature.com/articles/s41467-020-20249-2) with custom models.
