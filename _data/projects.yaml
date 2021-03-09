@@ -8,7 +8,7 @@
       icon: fab fa-php
 
     - name: BYOL
-      description: Bootstrap Your Own Latent A New Approach to Self-Supervised Learning
+      description: Bootstrap Your Own Latent: A New Approach to Self-Supervised Learning
       github: talipucar/PyFlow_BYOL
       image: byolc.png
       icon: fab fa-php
@@ -22,7 +22,7 @@
 - name: Multi-modal learning
   icon: fas fa-terminal
   projects:
-    - name: Multi-domain translation using autoencoders
+    - name: Multi-domain translation
       description: Multi-domain translation between single-cell imaging and sequencing data using autoencoders
       github: talipucar/PyFlow_DomainTranslation
       image: dtc.png
