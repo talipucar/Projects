@@ -1,3 +1,4 @@
+
 remote_theme: tedivm/jekyll-theme-portfolio
 
 
@@ -10,3 +11,10 @@ description: >
 
 # Header Links - all optional. If set these create header links.
 github_username: talipucar
+
+# Analytics
+google_analytics: 
+
+
+plugins:
+ - jekyll-remote-theme 
