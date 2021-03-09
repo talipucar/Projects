@@ -8,7 +8,7 @@
       icon: fab fa-php
 
     - name: BYOL
-      description: Bootstrap Your Own Latent: A New Approach to Self-Supervised Learning
+      description: Bootstrap Your Own Latent, A New Approach to Self-Supervised Learning
       github: talipucar/PyFlow_BYOL
       image: byolc.png
       icon: fab fa-php
