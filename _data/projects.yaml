@@ -1,5 +1,5 @@
-- name: Self-supervised Learning
   projects:
+  - name: Self-supervised Learning
     - name: SimCLR
       description: Pytorch implementations of "A Simple Framework for Contrastive Learning of Visual Representations", or SimCLR, https://arxiv.org/pdf/2002.05709.pdf
       github: talipucar/PyFlow_SimCLR
