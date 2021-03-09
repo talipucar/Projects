@@ -1,1 +1,12 @@
-remote_theme: daattali/beautiful-jekyll@5.0.0
+remote_theme: tedivm/jekyll-theme-portfolio
+
+
+title: Projects
+author: Talip Ucar
+email: ucabtuc@gmail.com
+description: >
+  This page is used to showcase ongoing, and completed projects within various research themes in Machine Learning.
+
+
+# Header Links - all optional. If set these create header links.
+github_username: talipucar
