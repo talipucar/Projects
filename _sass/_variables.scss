@@ -30,7 +30,8 @@ $black:    #000 !default;
 $blue:    #007bff !default;
 $indigo:  #6610f2 !default;
 $purple:  #6f42c1 !default;
-$pink:    #e83e8c !default;
+$pink:    #e83e8c !default; 
+$pink-700:    #cc81c7 !default;
 $red:     #FF7851 !default;
 $orange:  #fd7e14 !default;
 $yellow:  #FFCE67 !default;
@@ -62,7 +63,7 @@ $border-radius-sm:            .3rem !default;
 // Fonts
 
 $headings-font-family:        "Montserrat", -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif !default;
-$headings-color:              $gray-700 !default;
+$headings-color:              $pink-700 !default;
 
 // Tables
 
