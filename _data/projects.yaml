@@ -1,5 +1,6 @@
+- name: Self-supervised Learning
+  icon: fas fa-terminal
   projects:
-  - name: Self-supervised Learning
     - name: SimCLR
       description: Pytorch implementations of "A Simple Framework for Contrastive Learning of Visual Representations", or SimCLR, https://arxiv.org/pdf/2002.05709.pdf
       github: talipucar/PyFlow_SimCLR
@@ -19,6 +20,8 @@
       icon: fab fa-github
 
 - name: Multi-modal learning
+  icon: fas fa-terminal
+  projects:
     - name: Multi-domain translation using autoencoders
       description: Pytorch implementations of Pytorch implementation of "Multi-domain translation between single-cell imaging and sequencing data using autoencoders" (https://www.nature.com/articles/s41467-020-20249-2) with custom models.
       github: talipucar/PyFlow_DomainTranslation
