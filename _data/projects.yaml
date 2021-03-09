@@ -10,13 +10,13 @@
     - name: BYOL
       description: Pytorch implementations of "Bootstrap Your Own Latent A New Approach to Self-Supervised Learning", or BYOL, https://arxiv.org/pdf/2006.07733v3.pdf
       github: talipucar/PyFlow_BYOL
-      image: byol.png
+      image: byolc.png
       icon: fab fa-php
 
     - name: CPC
       description: Pytorch implementations of "Representation Learning with Contrastive Predictive Coding", or CPC, https://arxiv.org/pdf/1807.03748.pdf
       github: talipucar/PyFlow_CPC
-      image: cpc.png
+      image: cpcc.png
       icon: fab fa-github
 
 - name: Multi-modal learning
@@ -25,7 +25,7 @@
     - name: Multi-domain translation using autoencoders
       description: Pytorch implementations of Pytorch implementation of "Multi-domain translation between single-cell imaging and sequencing data using autoencoders" (https://www.nature.com/articles/s41467-020-20249-2) with custom models.
       github: talipucar/PyFlow_DomainTranslation
-      image: dt.png
+      image: dtc.png
       icon: fab fa-php
 
  
