@@ -28,3 +28,8 @@
       image: dtc.png
       icon: fab fa-php
  
+    - name: Domain Adaptation
+      description: Learning shared representation for domain adaptation/translation/alignment
+      github: talipucar/PyFlow_DomainAdaptation
+      image: da.png
+      icon: fab fa-php
