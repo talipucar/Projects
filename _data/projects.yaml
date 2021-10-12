@@ -1,6 +1,18 @@
 - name: Self-supervised Learning
   icon: fas fa-terminal
   projects:
+    - name: SubTab
+      description: SubTab: Subsetting Features of Tabular Data for Self-Supervised Representation Learning
+      github: AstraZeneca/SubTab
+      image: SubTab.gif
+      icon: fab fa-php
+
+    - name: CPC
+      description: Representation Learning with Contrastive Predictive Coding
+      github: talipucar/PyFlow_CPC
+      image: cpcc.png
+      icon: fab fa-github
+      
     - name: SimCLR
       description: A Simple Framework for Contrastive Learning of Visual Representations
       github: talipucar/PyFlow_SimCLR
@@ -13,11 +25,6 @@
       image: byolc.png
       icon: fab fa-php
 
-    - name: CPC
-      description: Representation Learning with Contrastive Predictive Coding
-      github: talipucar/PyFlow_CPC
-      image: cpcc.png
-      icon: fab fa-github
 
 - name: Multi-modal learning
   icon: fas fa-terminal
