@@ -13,3 +13,5 @@ github_username: talipucar
 
 # Analytics
 google_analytics: 
+
+gems: jekyll-seo-tag
