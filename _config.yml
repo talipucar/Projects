@@ -1,6 +1,6 @@
 
 
-remote_theme: tedivm/jekyll-theme-portfolio
+remote_theme: mmistakes/minimal-mistakes
 
 title: Projects
 author: Talip Ucar
